@@ -3,12 +3,6 @@ class script(object):
 
 Mʏ Nᴀᴍᴇ Is {bot}.
 
-Video Uploaded Here:-
-https://t.me/+5yjcJPbK6qQzNzk1
-https://t.me/+5yjcJPbK6qQzNzk1
-https://t.me/+5yjcJPbK6qQzNzk1
-https://t.me/+5yjcJPbK6qQzNzk1
-
 I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Us @Devilservers </b>"""
     
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
